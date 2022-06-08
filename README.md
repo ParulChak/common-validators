@@ -18,7 +18,7 @@ In this repo, till now we have cover
   5-Phone: phoneValidation();
   ``
   ``
-  6-Custom: customeValidation();
+  6-Custom: customValidation();
   ``
   ``
   7-regex: regexValidation();
