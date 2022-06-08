@@ -25,7 +25,8 @@ In this repo, till now we have cover
   ``
   
 Example:
+```
   const {validators} = require('validation.js')
-  const validator = new validator.validation();
+  const validator = new validators();
   validator.requiredValidation(val); ==> true/false based on value passed
-  
+```  
